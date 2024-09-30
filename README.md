@@ -19,6 +19,9 @@ This repository is for Albany State University Team of [https://sciencegateways.
 **Email:** sbradford@ecsu.edu
 **LinkedIn:** https://www.linkedin.com/in/sheryl-bradford-6781852b4/
 
+![SherylBradford-Photo](https://github.com/user-attachments/assets/fffeb3f8-ac51-4127-adf0-99a0ca54faa5)
+
+
 
 
 
