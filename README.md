@@ -7,7 +7,7 @@ This repository is for Albany State University Team of [https://sciencegateways.
 
 **Team Mentor:** Hector Corzo, PhD
 **Email:** hernandezchf@ornl.gov
-**LinkedIn:** [https://www.linkedin.com/in/jeaimehp/](https://www.linkedin.com/in/hector-h-corzo-257b44121/)
+**LinkedIn:** https://www.linkedin.com/in/hector-h-corzo-257b44121/
 
 **Team Co-Mentor:** Sheryl Bradford
 **Email:** sbradford@ecsu.edu
