@@ -1,5 +1,24 @@
 # Ojofacultyhackaton2024
-	
+This repository is for Albany State University Team of [https://sciencegateways.org/faculty-hackathon-2024](https://hackhpc.github.io/facultyhack-gateways24) with [SGX3](https://sciencegateways.org/)
+
+**Team Member:** Olabisi Ojo, PhD                                             
+**Email:** [olabisi.ojo@asurams.edu](mailto:olabisi.ojo@asurams.edu)                                          
+**LinkedIn:** [https://www.linkedin.com/in/olabisiojo/](https://www.linkedin.com/in/olabisiojo/)  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ## **Final Notes**
 
 ### **Additional Resources:**
