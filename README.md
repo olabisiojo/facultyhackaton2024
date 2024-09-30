@@ -1,5 +1,7 @@
 # facultyhackaton2024
-#Ojo is here
+	-Project Description
+	-Blog Post
+	-Code/Dataset
 ## **Final Notes**
 
 ### **Additional Resources:**
