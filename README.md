@@ -1,7 +1,5 @@
-# facultyhackaton2024
-	-Project Description
-	-Blog Post
-	-Code/Dataset
+# Ojofacultyhackaton2024
+	
 ## **Final Notes**
 
 ### **Additional Resources:**
