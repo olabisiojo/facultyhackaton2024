@@ -6,6 +6,15 @@ This repository is for Albany State University Team of [https://sciencegateways.
 **LinkedIn:** [https://www.linkedin.com/in/olabisiojo/](https://www.linkedin.com/in/olabisiojo/)  
 ![OjoOO1-Photo](https://github.com/user-attachments/assets/72ba8d9f-5372-4b84-b2e4-f0322a3d5a90)
 
+**Team Mentor:** Hector Corzo, PhD
+**Email:** hernandezchf@ornl.gov
+**LinkedIn:** [https://www.linkedin.com/in/jeaimehp/](https://www.linkedin.com/in/hector-h-corzo-257b44121/)
+![Hector Corzo](https://github.com/user-attachments/assets/cd380774-53ab-4672-ae54-608f19476260)
+
+**Team Mentor:** Sheryl Bradford
+**Email:** sbradford@ecsu.edu
+**LinkedIn:** https://www.linkedin.com/in/sheryl-bradford-6781852b4/
+![SherylBradford-Photo](https://github.com/user-attachments/assets/355b0bde-b8b5-44a4-96af-3e7dc731147f)
 
 
 
