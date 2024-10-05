@@ -28,7 +28,7 @@ This repository is for Albany State University Team of [https://sciencegateways.
 The revised General Bioinformatics Course offers a comprehensive and hands-on approach to modern bioinformatics, with a strong emphasis on high-performance computing (HPC) applications. This course integrates fundamental bioinformatics concepts with practical HPC skills, providing students with a solid foundation in both areas. The curriculum begins with an introduction to basic programming, coding, and HPC concepts, including access to scientific gateways and bash scripting. As the course progresses, it delves into advanced topics such as large-scale genomic data analysis, structural bioinformatics, HPC-based visualization of biological datasets, and HPC-enabled comparative genomics. Students will gain practical experience through project-based modules, utilizing a local supercomputer setup for hands-on learning. The course culminates in a final exam structured as an HPC-based project, allowing students to apply their acquired knowledge in a real-world scenario. By combining theoretical knowledge with practical skills in HPC and bioinformatics, this course prepares students for the computational challenges of modern biological research and equips them with valuable tools for data-intensive scientific discovery.
 
 
-# Blog post.
+# Blog Post.
 
 
 # Code/Datasets.
