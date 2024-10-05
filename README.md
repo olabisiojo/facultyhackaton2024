@@ -8,6 +8,17 @@ The revised General Bioinformatics Course offers a comprehensive and hands-on ap
 
 
 # Code/Datasets.
+Public Bioinformatics Dataset from JEFworks GitHub repository:
+https://github.com/JEFworks/public-bioinformatics-datasets
+
+NCBI Datasets:
+https://github.com/ncbi/datasets
+
+Metagenomic Dataset from the CURE:
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7511545/
+
+Genomics Data Lake from Azure Open Datasets:
+https://learn.microsoft.com/da-dk/azure/open-datasets/dataset-genomics-data-lake
 
 
 # Faculty Hackaton Team
