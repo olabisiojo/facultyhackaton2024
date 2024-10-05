@@ -34,8 +34,7 @@ The revised General Bioinformatics Course offers a comprehensive and hands-on ap
 # Code/Datasets.
 
 ## Course Module Enhancement Resources
-
-
+https://github.com/olabisiojo/facultyhackaton2024/blob/main/Bioinformatics_Enhancement%20File.md
 
 ## Public Bioinformatics Dataset from JEFworks GitHub repository:
 https://github.com/JEFworks/public-bioinformatics-datasets
