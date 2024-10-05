@@ -1,5 +1,10 @@
+# ASURAMS's Team FacultyHack@Gateways24
+
 This repository is for Albany State University Team of [https://sciencegateways.org/faculty-hackathon-2024](https://hackhpc.github.io/facultyhack-gateways24) with [SGX3](https://sciencegateways.org/)
-# Faculty Hackaton Team
+
+---
+
+## Faculty Hackaton Team
 **Team Member:** Olabisi Ojo, PhD. 
 **Email:** [olabisi.ojo@asurams.edu](mailto:olabisi.ojo@asurams.edu).
 **LinkedIn:** [https://www.linkedin.com/in/olabisiojo/](https://www.linkedin.com/in/olabisiojo/).
@@ -18,6 +23,7 @@ This repository is for Albany State University Team of [https://sciencegateways.
 
 ![SherylBradford-Photo](https://github.com/user-attachments/assets/fffeb3f8-ac51-4127-adf0-99a0ca54faa5)
 
+---
 # Project Description.
 The revised General Bioinformatics Course offers a comprehensive and hands-on approach to modern bioinformatics, with a strong emphasis on high-performance computing (HPC) applications. This course integrates fundamental bioinformatics concepts with practical HPC skills, providing students with a solid foundation in both areas. The curriculum begins with an introduction to basic programming, coding, and HPC concepts, including access to scientific gateways and bash scripting. As the course progresses, it delves into advanced topics such as large-scale genomic data analysis, structural bioinformatics, HPC-based visualization of biological datasets, and HPC-enabled comparative genomics. Students will gain practical experience through project-based modules, utilizing a local supercomputer setup for hands-on learning. The course culminates in a final exam structured as an HPC-based project, allowing students to apply their acquired knowledge in a real-world scenario. By combining theoretical knowledge with practical skills in HPC and bioinformatics, this course prepares students for the computational challenges of modern biological research and equips them with valuable tools for data-intensive scientific discovery.
 
@@ -26,15 +32,15 @@ The revised General Bioinformatics Course offers a comprehensive and hands-on ap
 
 
 # Code/Datasets.
-Public Bioinformatics Dataset from JEFworks GitHub repository:
+## Public Bioinformatics Dataset from JEFworks GitHub repository:
 https://github.com/JEFworks/public-bioinformatics-datasets
 
-NCBI Datasets:
+## NCBI Datasets:
 https://github.com/ncbi/datasets
 
-Metagenomic Dataset from the CURE:
+## Metagenomic Dataset from the CURE:
 https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7511545/
 
-Genomics Data Lake from Azure Open Datasets:
+## Genomics Data Lake from Azure Open Datasets:
 https://learn.microsoft.com/da-dk/azure/open-datasets/dataset-genomics-data-lake
 
