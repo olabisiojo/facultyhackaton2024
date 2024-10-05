@@ -1,4 +1,4 @@
-# ASURAMS's Team FacultyHack@Gateways24
+# ASURAMS's Team FacultyHackaton@Gateways24
 
 This repository is for Albany State University Team of [https://sciencegateways.org/faculty-hackathon-2024](https://hackhpc.github.io/facultyhack-gateways24) with [SGX3](https://sciencegateways.org/)
 
