@@ -36,35 +36,35 @@ OCT 8 – 10, 2024
 SGX3 Gateway Conference 2024 was an eventful workshop. From registration at the conference to the very closing session, all participants were thoroughly impacted.
 The following tells some of the story of the events:
 
-1. Dr Olamide Tawose (Faculty Participant from Lincoln University of Pennsylvania), having just left the registration stand, excited, made progress into the Conference Hall.
+##1. Dr Olamide Tawose (Faculty Participant from Lincoln University of Pennsylvania), having just left the registration stand, excited, made progress into the Conference Hall.
 
 ![image](https://github.com/user-attachments/assets/df1c911a-2b34-43de-aa06-7032debd9acc)
 
-2. Food served as attendees treated themselves to an exquisite continental breakfast at the conference
+##2. Food served as attendees treated themselves to an exquisite continental breakfast at the conference
 
 ![image](https://github.com/user-attachments/assets/24884e14-b937-480a-92e3-cc5ce9331f21)
 
-3. Dr. Je’aime Powell and other conference organisers finalizing their operations for the start of the conference
+##3. Dr. Je’aime Powell and other conference organisers finalizing their operations for the start of the conference
 
 ![image](https://github.com/user-attachments/assets/e13e7641-3045-4123-8736-e46c371fd5ed)
 
-4. The set up of the Faculty/Student/ Mentors poster presentation area at the Conference
+##4. The set up of the Faculty/Student/ Mentors poster presentation area at the Conference
 
 ![image](https://github.com/user-attachments/assets/c40afb0d-63bc-4575-822b-306cf52f2ab7)
 
-5. The Chair, Organizing Committee (Dr. Sean Cleveland, The University of Hawaii System) presenting a certificate to one of the Keynote speakers, Dr. Jeanette Sperhac (HubZero)
+##5. The Chair, Organizing Committee (Dr. Sean Cleveland, The University of Hawaii System) presenting a certificate to one of the Keynote speakers, Dr. Jeanette Sperhac (HubZero)
 
 ![image](https://github.com/user-attachments/assets/530232d5-5e7a-4f81-aa61-dd462b3ff15e)
 
-6. Dr Amy Apon, Program Director NSF and a Keynote speaker presenting during the conference
+##6. Dr Amy Apon, Program Director NSF and a Keynote speaker presenting during the conference
 
 ![image](https://github.com/user-attachments/assets/44de0959-5dd0-4427-a403-16ebdf1d013e)
 
-7. Dr. Linda Hayden (SGCI/SGX3 Director of Workforce Development) and Dr. La Tasha Roberts, Austin Community College) discussing and finalizing assignments of mentors to students and Faculty Hackathon participants during the conference.
+##7. Dr. Linda Hayden (SGCI/SGX3 Director of Workforce Development) and Dr. La Tasha Roberts, Austin Community College) discussing and finalizing assignments of mentors to students and Faculty Hackathon participants during the conference.
 
 ![image](https://github.com/user-attachments/assets/04cf08c7-339e-4cbe-bc5b-9fd20ed15c80)
 
-8. Dr. Rob Quick (Director of Cyberinfrastructure Integration Research Center, Indiana University Indianapolis) presenting during the conference.
+##8. Dr. Rob Quick (Director of Cyberinfrastructure Integration Research Center, Indiana University Indianapolis) presenting during the conference.
 
 ![image](https://github.com/user-attachments/assets/0349882c-9826-4997-a05a-d2b2b04f32ac)
 
