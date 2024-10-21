@@ -52,7 +52,7 @@ The following tells some of the story of the events:
 
 ![image](https://github.com/user-attachments/assets/c40afb0d-63bc-4575-822b-306cf52f2ab7)
 
-### 5. The Chair, Organizing Committee (Dr. Sean Cleveland, The University of Hawaii System) presenting a certificate to one of the Keynote speakers, Dr. Jeanette Sperhac (HubZero)
+### 5. The Chair, Organizing Committee, Dr. Sean Cleveland (The University of Hawaii System), presenting a certificate to one of the Keynote speakers, Dr. Jeanette Sperhac (HubZero)
 
 ![image](https://github.com/user-attachments/assets/530232d5-5e7a-4f81-aa61-dd462b3ff15e)
 
@@ -60,7 +60,7 @@ The following tells some of the story of the events:
 
 ![image](https://github.com/user-attachments/assets/44de0959-5dd0-4427-a403-16ebdf1d013e)
 
-### 7. Dr. Linda Hayden (SGCI/SGX3 Director of Workforce Development) and Dr. La Tasha Roberts, Austin Community College) discussing and finalizing assignments of mentors to students and Faculty Hackathon participants during the conference.
+### 7. Dr. Linda Hayden (SGCI/SGX3 Director of Workforce Development) and Dr. La Tasha Roberts (Austin Community College), discussing and finalizing assignments of Mentors to Students and Faculty Hackathon participants during the conference.
 
 ![image](https://github.com/user-attachments/assets/04cf08c7-339e-4cbe-bc5b-9fd20ed15c80)
 
