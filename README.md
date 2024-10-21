@@ -29,7 +29,13 @@ The revised General Bioinformatics Course offers a comprehensive and hands-on ap
 
 
 # Blog Post.
-....... loading!
+Attendance at the SGX3 Gateway Conference 2024
+Bozeman, MT
+OCT 8 – 10, 2024
+
+SGX3 Gateway Conference 2024 was an eventful workshop. From registration at the conference to the very closing session, all participants were thoroughly impacted.
+The following tells some of the story of the events:
+
 
 # Code/Datasets.
 
