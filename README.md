@@ -36,6 +36,8 @@ OCT 8 – 10, 2024
 SGX3 Gateway Conference 2024 was an eventful workshop. From registration at the conference to the very closing session, all participants were thoroughly impacted.
 The following tells some of the story of the events:
 
+1. Dr Olamide Tawose (Faculty Participant from Lincoln University of Pennsylvania), having just left the registration stand, excited, made progress into the Conference Hall
+![image](https://github.com/user-attachments/assets/df1c911a-2b34-43de-aa06-7032debd9acc)
 
 # Code/Datasets.
 
