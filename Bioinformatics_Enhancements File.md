@@ -823,15 +823,4 @@ This repository is for Albany State University Team of [https://sciencegateways.
 **Team Member:** Olabisi Ojo, PhD                                             
 **Email:** [olabisi.ojo@asurams.edu](mailto:olabisi.ojo@asurams.edu)                                          
 **LinkedIn:** [https://www.linkedin.com/in/olabisiojo/](https://www.linkedin.com/in/olabisiojo/)                                                            
-![image](imgs/ojooo.png)
-                  
-**Team Mentor:** Hector Corzo.                                
-**Email:**   
-**LinkedIn:** 
-![image](imgs/hectorc.png)
 
-**Team Co-Mentor:** Sheryl Bradford.                                
-**Email:**   
-**LinkedIn:** 
-![image](imgs/sherylb.png)
----
