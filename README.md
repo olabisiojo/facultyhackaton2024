@@ -80,7 +80,7 @@ The following tells some of the story of the events:
 # Code/Datasets.
 
 ## Course Module Enhancement Resources
-[https://github.com/olabisiojo/facultyhackaton2024/blob/main/Bioinformatics_Enhancement%20File.md]
+https://github.com/olabisiojo/facultyhackaton2024/blob/main/Bioinformatics_Enhancements%20File.md
 
 ## Datasets
 
